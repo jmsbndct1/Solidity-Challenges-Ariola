@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
+// James Benedict Ariola BSIT 3.1 
 
 contract Chall1Contract {
     
